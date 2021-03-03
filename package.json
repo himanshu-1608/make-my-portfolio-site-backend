@@ -1,0 +1,19 @@
+{
+  "name": "make-my-portfolio-site-backend",
+  "version": "1.0.0",
+  "description": "backend of site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu-1608/make-my-portfolio-site-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu-1608/make-my-portfolio-site-backend/issues"
+  },
+  "homepage": "https://github.com/himanshu-1608/make-my-portfolio-site-backend#readme"
+}
