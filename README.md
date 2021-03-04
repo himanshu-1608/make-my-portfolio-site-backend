@@ -1,3 +1,3 @@
 # make-my-portfolio-site-backend
 
-backend of site
+REST API structure to be used. ESLint, Prettier to be used.
